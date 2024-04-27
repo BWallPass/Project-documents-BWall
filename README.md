@@ -1,4 +1,4 @@
-# Welcome to the official documentation of the N-layers project cycle 01/2024
+# Welcome to the official documentation of the N-layers project. Cycle 01/2024
 
 ## Integrantes
 
@@ -20,7 +20,7 @@
 
 ## Versiones
 
-- **Versión 1.0.0**
+- **Versión 1.1.0**
   - Descripción: Primera versión del proyecto
-  - Fecha: [20/04/2024]
+  - Fecha: [27/04/2024]
 
