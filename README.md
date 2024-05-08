@@ -20,7 +20,7 @@
 
 ## Versiones
 
-- **Versión 1.1.0**
+- **Versión 1.1.1**
   - Descripción: Primera versión del proyecto
   - Fecha: [27/04/2024]
 
